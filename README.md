@@ -9,3 +9,5 @@ Although some important financial statistics are readily available online, such 
 Similarly, the CAPM is widely used as the de facto model for calculating required return, largely due to its simplicity. But while the CAPM empirically explains about 70% of variability in market returns, the Fama-French 3 factor model explains over 90%. Despite this, CAPM calculators online are abundant while Fama-French ones are virtually nonexistent.
 
 Notably, these calculations are not difficult to perform. Heavily tested and widely used programming libraries perform them automatically. For these reasons, this webapp offers a more comprehensive view of stock returns.
+
+Below are my commits.
