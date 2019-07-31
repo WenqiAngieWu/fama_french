@@ -10,4 +10,4 @@ Similarly, the CAPM is widely used as the de facto model for calculating require
 
 Notably, these calculations are not difficult to perform. Heavily tested and widely used programming libraries perform them automatically. For these reasons, this webapp offers a more comprehensive view of stock returns.
 
-Below are my commits.
+> Below are my commits.
